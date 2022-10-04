@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naman1102
 - 👀 I’m interested in cybersecurity, CTFs, Web development.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on web development and cyber security
 - 📫 How to reach me out on linkedin :  https://www.linkedin.com/in/naman0/
 
