@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://namanmehta.me)
+* 🖥️  See my portfolio at [My Portfolio](https://namanmehta.me)
 * ✉️  You can contact me at [naman.mehta1102@gmail.com](mailto:naman.mehta1102@gmail.com)
 * 🚀  I'm currently working on [Session-Recording-RDP](https://github.com/naman1102/Session-Recording-RDP)
 * 🧠  I'm learning IAM, PAM, EPM, DevOps, Cloud Computing.
@@ -40,8 +40,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/naman1102/KanBan-Hacktober" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naman1102&repo=Session-Recording-RDP&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+<div width="100%" align="center"><a href="https://github.com/naman1102/KanBan-Hacktober" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naman1102&repo=Session-Recording-RDP&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <div width="100%" align="center"><a href="https://github.com/naman1102/KanBan-Hacktober" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=naman1102&repo=PhishTor-Phishing-link-detection-sytem-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
