@@ -2,12 +2,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://)
-* ✉️  You can contact me at [namanmehta20199@acropolis.in](mailto:namanmehta20199@acropolis.in)
-* 🚀  I'm currently working on [Phishing Link Detection System](http://github.com/naman1102)
-* 🧠  I'm learning MERN
+* 🖥️  See my portfolio at [My Portfolio](http://namanmehta.me)
+* ✉️  You can contact me at [naman.mehta1102@gmail.com](mailto:naman.mehta1102@gmail.com)
+* 🚀  I'm currently working on [Session-Recording-RDP]([http://github.com/naman1102](https://github.com/naman1102/Session-Recording-RDP))
+* 🧠  I'm learning IAM, PAM, EPM, DevOps, Cloud Computing.
 * 🤝  I'm open to collaborating on MERN, Cyber Security, Data Science, AI-ML
-* ⚡  I'm video editor
 
 ### Skills
 
